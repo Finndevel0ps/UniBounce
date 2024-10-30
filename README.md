@@ -1,4 +1,4 @@
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="lb++" src="src/main/resources/assets/minecraft/liquidbounce%2B/big.png">
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="lb++" src="https://github.com/Finndevel0ps/UniBounce/blob/main/61e3ba71-5bdf-4ad0-b6cb-c984d2a9a44b.png">
 
 # UniBounce              
      
