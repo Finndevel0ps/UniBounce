@@ -1,18 +1,11 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="lb++" src="src/main/resources/assets/minecraft/liquidbounce%2B/big.png">
 
-# LiquidBounce++              
+# UniBounce              
      
 A free mixin-based injection hacked-client for Minecraft 1.8.9 using Minecraft Forge.
-Based on LiquidBounce+
+Based on LiquidBounce++
 
-## (not entirely) DISCONTINUED.
-LiquidBounce++ is now discontinued. You can still submit [Pull requests](https://github.com/MongusOrg/LiquidBouncePlusPlus/pulls) to contribute updating this client or if you want to use LiquidBounce++, you can [download here](https://plusplus.funniesthvh.uk).
-
-## RIP WYSI-Foundation
-We hope Inf returns with a new foundation.
-
-### Info
-[Website](https://plusplus.funniesthvh.uk)
+# This project is currently under devopment and will not bypass watchdog yet!
 
 ## How to install
 1. Download [Forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
